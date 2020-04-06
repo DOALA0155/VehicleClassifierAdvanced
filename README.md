@@ -16,3 +16,10 @@ Validation loss is "0.389"
 
 ### This model's summary
 ![model summary](./ModelImages/ModelSummary.png)
+
+## How to use this model?
+
+1: clone this repository.
+```
+
+```
